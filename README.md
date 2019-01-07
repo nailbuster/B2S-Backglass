@@ -15,7 +15,7 @@ c> I made a new function/property on the controller that you can disable pinup p
 
 example in table_init script:
 ```
-quick example: Sub Table1_Init
+Sub Table1_Init
 vpmInit Me
 With Controller
 .GameName = cGameName
