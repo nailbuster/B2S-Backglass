@@ -1,4 +1,5 @@
-# B2S-Backglass PINUP System inspired version (not official version)
+# B2S-Backglass PINUP System inspired version
+# (not official version)
 B2S Backglass Server and Designer for use with Visual Pinball
 
 
