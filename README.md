@@ -14,4 +14,6 @@ c> I made a new function/property on the controller that you can disable pinup p
 
 If anyone wants to test it out. make backup copy of your b2sbackglassserver.dll and exe and try this out. REMEMBER to unblock the zip prior to unzipping.
 
+compiled with VS2015
+
 www.nailbuster.com/pinupdates/PinUPSystem_B2S_Server_Custom.zip
