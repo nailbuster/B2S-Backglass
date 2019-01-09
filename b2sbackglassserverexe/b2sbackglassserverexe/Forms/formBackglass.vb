@@ -145,7 +145,12 @@ Public Class formBackglass
 
         'Me.TopMost = True
         'Me.BringToFront()
-        Me.SendToBack()
+        If B2SSettings.FormToFront Then
+            Me.BringToFront()
+        Else
+            Me.SendToBack()
+        End If
+
 
         'Me.TopMost = False
 
