@@ -41,4 +41,3 @@ If anyone wants to test it out. make backup copy of your b2sbackglassserver.dll 
 
 compiled with VS2015
 
-www.nailbuster.com/pinupdates/PinUPSystem_B2S_Server_Custom.zip
